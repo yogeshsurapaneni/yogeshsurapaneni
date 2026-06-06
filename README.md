@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi there 👋 I'm Yogesh Surapaneni</h1>
 
 <h3 align="center">
@@ -30,4 +29,3 @@ and platform engineering.
 - ☁️ Cloud-native architectures
 - ☸️ Kubernetes ecosystem and automation
 - 🚀 Building developer productivity solutions
-```
